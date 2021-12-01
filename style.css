@@ -1,0 +1,20 @@
+.main{
+    text-align: center;
+    padding: 300px;    
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#space{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+#input{
+    height: 50px;
+    font-size: 30px;
+}
+#button{
+    height: 55px;
+    font-size: 30px;
+}
